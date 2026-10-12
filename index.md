@@ -7,3 +7,9 @@
 ## 大事记
 
 待补充。
+
+## 创作史
+
+- [write/职场言情.md](./write/职场言情.md)
+- [write/重生言情.md](./write/重生言情.md)
+- [write/三部曲世界观.md](./write/三部曲世界观.md)
