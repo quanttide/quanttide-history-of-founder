@@ -1,0 +1,19 @@
+version: 1
+project:
+  title: 量潮创始人历史
+  description: 量潮创始人历史 - 发展历程与关键事件记录
+  keywords: [量潮创始人, 历史]
+  authors:
+    - name: 量潮科技
+  license: CC-BY-4.0
+  toc:
+    - file: index.md
+    - title: 作品
+      children:
+        - file: write/workplace-romance.md
+        - file: write/rebirth-romance.md
+        - file: write/trilogy-worldview.md
+site:
+  template: book-theme
+  options:
+    folders: true

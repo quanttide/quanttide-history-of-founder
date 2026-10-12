@@ -14,3 +14,4 @@
 
 - 初始化历史仓库：`README.md`、`index.md`（入口，待补充）
 - 迁入 `write/`：作品的历史与设定三篇（职场言情 / 重生言情 / 三部曲世界观），源自 `data/context/write/history/`
+- `write/` 文件名改英文（`workplace-romance.md` / `rebirth-romance.md` / `trilogy-worldview.md`）；新增 `myst.yml`（书名、目录与导航）

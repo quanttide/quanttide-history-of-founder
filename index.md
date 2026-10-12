@@ -10,6 +10,6 @@
 
 ## 创作史
 
-- [write/职场言情.md](./write/职场言情.md)
-- [write/重生言情.md](./write/重生言情.md)
-- [write/三部曲世界观.md](./write/三部曲世界观.md)
+- [write/workplace-romance.md](./write/workplace-romance.md)：职场言情。
+- [write/rebirth-romance.md](./write/rebirth-romance.md)：重生言情。
+- [write/trilogy-worldview.md](./write/trilogy-worldview.md)：三部曲世界观。
