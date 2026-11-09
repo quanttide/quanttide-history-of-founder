@@ -8,6 +8,11 @@
 
 待补充。
 
+## 观察
+
+- [default/2026-11.md](./default/2026-11.md)：2026-11《从答题者到设问者——量潮创始人的一次系统转型》。
+- [default/TODO.md](./default/TODO.md)：历史观察线待办——从历史日志里追默认日志转型前后变化。
+
 ## 创作史
 
 - [write/workplace-romance.md](./write/workplace-romance.md)：职场言情。

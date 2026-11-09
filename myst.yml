@@ -8,6 +8,9 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
+    - title: 观察
+      children:
+        - file: default/2026-11.md
     - title: 作品
       children:
         - file: write/workplace-romance.md
